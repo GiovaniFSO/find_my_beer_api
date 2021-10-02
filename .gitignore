@@ -28,3 +28,4 @@
 
 rspec.txt
 coverage
+.env
