@@ -36,19 +36,38 @@ jobs:
         with:
           ruby-version: ${{ env.RUBY_VERSION }}
           bundler-cache: true
-    
+
       - name: Setup Node
         uses: actions/setup-node@v2
         with:
           node-version: ${{ env.NODE_VERSION }}
- 
+
       - name: Yarn Install
         run: bin/yarn
+
+      - name: Bundle install
+        run: |
+          gem install bundler
+          bundle install --jobs 4 --retry 3
+
+      - name: Setup Database
+        run: |
+          cp config/database.yml.github-actions config/database.yml
+          bundle exec rake db:create
+          bundle exec rake db:schema:load
+        env:
+          RAILS_ENV: test
+          POSTGRES_USER: postgres
+          POSTGRES_PASSWORD: postgres
 
       - name: Rspec
         run: |
           bundle exec rails db:prepare
           bundle exec rspec
+        env:
+          RAILS_ENV: test
+          POSTGRES_USER: postgres
+          POSTGRES_PASSWORD: postgres
 
       - name: Rubocop
         run: bundle exec rubocop -c .rubocop.yml
