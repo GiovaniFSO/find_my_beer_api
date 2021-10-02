@@ -1,0 +1,323 @@
+{
+  "html_attributions": [],
+  "result": {
+      "address_components": [
+          {
+              "long_name": "21",
+              "short_name": "21",
+              "types": [
+                  "street_number"
+              ]
+          },
+          {
+              "long_name": "Fleet Street",
+              "short_name": "Fleet St",
+              "types": [
+                  "route"
+              ]
+          },
+          {
+              "long_name": "Temple Bar",
+              "short_name": "Temple Bar",
+              "types": [
+                  "neighborhood",
+                  "political"
+              ]
+          },
+          {
+              "long_name": "Dublin 2",
+              "short_name": "Dublin 2",
+              "types": [
+                  "postal_town"
+              ]
+          },
+          {
+              "long_name": "County Dublin",
+              "short_name": "D",
+              "types": [
+                  "administrative_area_level_1",
+                  "political"
+              ]
+          },
+          {
+              "long_name": "Ireland",
+              "short_name": "IE",
+              "types": [
+                  "country",
+                  "political"
+              ]
+          },
+          {
+              "long_name": "D02 H950",
+              "short_name": "D02 H950",
+              "types": [
+                  "postal_code"
+              ]
+          }
+      ],
+      "adr_address": "<span class=\"street-address\">21 Fleet Street</span>, <span class=\"extended-address\">Temple Bar</span>, <span class=\"locality\">Dublin 2</span>, <span class=\"postal-code\">D02 H950</span>, <span class=\"country-name\">Ireland</span>",
+      "business_status": "OPERATIONAL",
+      "formatted_address": "21 Fleet St, Temple Bar, Dublin 2, D02 H950, Ireland",
+      "formatted_phone_number": "(01) 671 7388",
+      "geometry": {
+          "location": {
+              "lat": 53.3458948,
+              "lng": -6.2596063
+          },
+          "viewport": {
+              "northeast": {
+                  "lat": 53.34724378029149,
+                  "lng": -6.258257319708497
+              },
+              "southwest": {
+                  "lat": 53.3445458197085,
+                  "lng": -6.260955280291502
+              }
+          }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+      "international_phone_number": "+353 1 671 7388",
+      "name": "The Palace Bar",
+      "opening_hours": {
+          "open_now": true,
+          "periods": [
+              {
+                  "close": {
+                      "day": 0,
+                      "time": "2330"
+                  },
+                  "open": {
+                      "day": 0,
+                      "time": "1230"
+                  }
+              },
+              {
+                  "close": {
+                      "day": 1,
+                      "time": "2330"
+                  },
+                  "open": {
+                      "day": 1,
+                      "time": "1030"
+                  }
+              },
+              {
+                  "close": {
+                      "day": 2,
+                      "time": "2330"
+                  },
+                  "open": {
+                      "day": 2,
+                      "time": "1030"
+                  }
+              },
+              {
+                  "close": {
+                      "day": 3,
+                      "time": "2330"
+                  },
+                  "open": {
+                      "day": 3,
+                      "time": "1030"
+                  }
+              },
+              {
+                  "close": {
+                      "day": 4,
+                      "time": "2330"
+                  },
+                  "open": {
+                      "day": 4,
+                      "time": "1030"
+                  }
+              },
+              {
+                  "close": {
+                      "day": 6,
+                      "time": "0030"
+                  },
+                  "open": {
+                      "day": 5,
+                      "time": "1030"
+                  }
+              },
+              {
+                  "close": {
+                      "day": 0,
+                      "time": "0030"
+                  },
+                  "open": {
+                      "day": 6,
+                      "time": "1030"
+                  }
+              }
+          ],
+          "weekday_text": [
+              "Monday: 10:30 AM – 11:30 PM",
+              "Tuesday: 10:30 AM – 11:30 PM",
+              "Wednesday: 10:30 AM – 11:30 PM",
+              "Thursday: 10:30 AM – 11:30 PM",
+              "Friday: 10:30 AM – 12:30 AM",
+              "Saturday: 10:30 AM – 12:30 AM",
+              "Sunday: 12:30 – 11:30 PM"
+          ]
+      },
+      "photos": [
+          {
+              "height": 3000,
+              "html_attributions": [
+                  "<a href=\"https://maps.google.com/maps/contrib/113110406294245292993\">Gary Kearney</a>"
+              ],
+              "photo_reference": "Aap_uECUUIHyoC6tBtnEk1HhWZvta3iQzPepumMl57lnGXiUjGADbdtxbswfzC8LjObHGFjsoUWSK5da_dOcnMwFDnYYK_KKtonKPhRz_hizO5wDcwfJK-W9wg2GgtLgzs6p2DfpPy1h_Edlh2i3vEz4egG522cSAs4A7Xg-nEZXZ8vobnl6",
+              "width": 5333
+          },
+          {
+              "height": 1516,
+              "html_attributions": [
+                  "<a href=\"https://maps.google.com/maps/contrib/115433371374871412846\">Nathan Appel</a>"
+              ],
+              "photo_reference": "Aap_uEDh0ucCmBGEdCW1QYS8c2pHahW5NKYJ1sDgwdleCAMjMWPVczmfsiZ51jlD1XuX58HNgW0QwDQsJXiYO9ZwgsaC25JHmMoM518lJ7BEVoNLmjwOLj6Jtg4pxpJDWPoe_71ACyX0O38SbmOqTt72W1Fn1Zxzdvur7QiRn-XU3r5Qn_ke",
+              "width": 2048
+          },
+          {
+              "height": 4032,
+              "html_attributions": [
+                  "<a href=\"https://maps.google.com/maps/contrib/107098724069068963750\">Julie Schmidt</a>"
+              ],
+              "photo_reference": "Aap_uEDWVtI9P8HH96IyedhSDpNmmJBB-m7htwSoeBZz1TYOFdUCCQYUU-FNx9-DVToi3oCwA8294FxitgLvov9Oc3MtLg9XpR39GxvK7YiXeblEmv0PhsKO2my4w7zLJ8znpbHfRYOFL1hl0LSpvlU7faLn0kx2dTMV8BSX_lLqW8asnvrx",
+              "width": 3024
+          },
+          {
+              "height": 4032,
+              "html_attributions": [
+                  "<a href=\"https://maps.google.com/maps/contrib/107098724069068963750\">Julie Schmidt</a>"
+              ],
+              "photo_reference": "Aap_uECwEqByxihAAi9qIEVTyCjP02QRrCtncHvBI9_80KqDRD_Qdooylj6LTWq9M4SN7Y3RznovoOv-gIDaGZRMxRi4Bz3vjQGmEfnWEWVYVwN4Un-NFvqnHsNalg7jC0lqemqTI6mPBCzO4KLRGfdXajIvtJx_IkyRhsmAYD1EC6s-WQy8",
+              "width": 3024
+          },
+          {
+              "height": 4000,
+              "html_attributions": [
+                  "<a href=\"https://maps.google.com/maps/contrib/111739099807925169588\">Jose Luis Ferreira</a>"
+              ],
+              "photo_reference": "Aap_uEA_E7ftJOufFBJPJfS3X2aqWeMn9Z7i_gQ6KJ-jrvtidPbfuo6nqSCBgd1TNB0WqXEM0iUGiWq5j17jdRxkon643cHdBNcWyl7FmIV-NcVV4jd2NVW99AduX8Iki07siz3Kt_6cchjiIloTcBGgYESuaHzsg4eqUT05wpI5LuVddeuG",
+              "width": 3000
+          },
+          {
+              "height": 3000,
+              "html_attributions": [
+                  "<a href=\"https://maps.google.com/maps/contrib/108024267600818119638\">Japanese Leipziger: Stumpy</a>"
+              ],
+              "photo_reference": "Aap_uEDhubAGuAj7G3SnsPQhtMSCp67-_AGfkHE4S5ujz62N7kS_ZKF7rXzaCPB-L5BHm2RjiMMatQUwjDyL2l1S7VgNr1nuvpKhpiyY2tk9IVSmmyDqf7IU_IgTi0XsrCxMEYbVwjohKVyRD3ZzKbmzksRLgyfO4AStK31S3195etktCrY",
+              "width": 4000
+          },
+          {
+              "height": 2736,
+              "html_attributions": [
+                  "<a href=\"https://maps.google.com/maps/contrib/114117438230670086766\">Vio Li</a>"
+              ],
+              "photo_reference": "Aap_uECFupDOOnrGz1CdTjbqpMHJmjhhRluFcTeuxWJ_T-B7wTs-XeBaUqpyN62566B_huL-AUQ0QJw6u7cX96rsEUj0VFhUIe3L9-Pg9-JldQsead7gC4xf0FwFYC7TLhMzVkMST3jQYVypHzEkDNDopyuJdlOPGRFMJqZ-vmouKMyHcFWL",
+              "width": 3648
+          },
+          {
+              "height": 2736,
+              "html_attributions": [
+                  "<a href=\"https://maps.google.com/maps/contrib/115305434609586603636\">Dániel Fazekas</a>"
+              ],
+              "photo_reference": "Aap_uEBQ-ihQNKZ6cWPn5EDWZWl2cRaztG4O0xkm22OcIYLrvcMpw-wxgyYL8kOH-wHoa92D5TLo3HP_wGz5pjpxqRk-xkrJmzcnHUdYzk_a0dKFw9SruOfQVGTA97KNgFEtaQIGcRjSRj4YF2g1gYe29RdYxYdBQnNxnyNN-eSYtX3CVEww",
+              "width": 3648
+          },
+          {
+              "height": 4000,
+              "html_attributions": [
+                  "<a href=\"https://maps.google.com/maps/contrib/111739099807925169588\">Jose Luis Ferreira</a>"
+              ],
+              "photo_reference": "Aap_uEBsK3SWhai9j7CCtqzQFZzUwWUqIHxRvBhBnyjwt_Isg3jSuiGj2-wOU0u9c4QIJMaUawaKg3_AyNcLJ9HnvLywpUggvkl3p13jlkhMBeZkGd6vuXCmasVIv2F-yAXYMvYPsw1gkHlrG9j9xgIg5_L2Mek4Kn49Ed_0J5Jc5LFG19K5",
+              "width": 3000
+          },
+          {
+              "height": 4160,
+              "html_attributions": [
+                  "<a href=\"https://maps.google.com/maps/contrib/107452631693393326262\">antonio marquez</a>"
+              ],
+              "photo_reference": "Aap_uEC98oj6Qc-IkjkKe4GIOdua8ruDCre_l9WEmk7mhGt7JrF-Rs4ZfguDIAWTuHIB6R5WFp7cFRk9xUqvgegFU6ZFca0Kcn_h9-0Ctiiackum4kSfC1CYsU0j0byb9S8-0lITDpaG9CFxa1uvi1UhocoyvY4E70UTeuXX_30Edja3VcXS",
+              "width": 3120
+          }
+      ],
+      "place_id": "ChIJY8EByoQOZ0gRSMYJds1CQHU",
+      "plus_code": {
+          "compound_code": "8PWR+95 Dublin 2, Ireland",
+          "global_code": "9C5M8PWR+95"
+      },
+      "price_level": 2,
+      "rating": 4.5,
+      "reference": "ChIJY8EByoQOZ0gRSMYJds1CQHU",
+      "reviews": [
+          {
+              "author_name": "Imre Kovács",
+              "author_url": "https://www.google.com/maps/contrib/101201925479234946774/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14GgNUXLlisswJpGpxSsWYeVDo_eVbVCwPswFo8yXPhE=s128-c0x00000000-cc-rp-mo-ba5",
+              "rating": 5,
+              "relative_time_description": "a month ago",
+              "text": "If you are looking for a real Irish pub experience, come here. Yes, it is at the end of a tourist street, but this place stands out.\nWhen we sat in, we only saw elderly locals inside, sipping their beers and whiskeys, it was a unique experience.\nThe interior is Victorian style and spectacular, it is like an instant time travel. The staff is professional, they had some really nice whiskeys, too.",
+              "time": 1629136255
+          },
+          {
+              "author_name": "Nathan Appel",
+              "author_url": "https://www.google.com/maps/contrib/115433371374871412846/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14Gg8nHEatYuU212gP9Bx2ZGB2Moy6poa7g9H-Ym6BQ=s128-c0x00000000-cc-rp-mo-ba3",
+              "rating": 5,
+              "relative_time_description": "in the last week",
+              "text": "We made both a day and a night time visit to The Palace Bar.  Both times the service was great and the pints were top notch.  The inside of the The Palace Bar is wonderful as well.  It is a nice step back in time in an increasingly modern city.",
+              "time": 1632953339
+          },
+          {
+              "author_name": "Joe Geoghegan",
+              "author_url": "https://www.google.com/maps/contrib/102234550959006657300/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14Gi2IFKQ1bDl7i6w19-B1EttCPDWrGgKyF8CLcU=s128-c0x00000000-cc-rp-mo-ba4",
+              "rating": 5,
+              "relative_time_description": "a month ago",
+              "text": "Let me put it this way......forget about the rest of the pubs in Temple Bar, this is by far the best pub in this part of Dublin. The Guinness served here by experienced, friendly staff is five star. I'd nearly forgive myself for a 'down the hatch one gulp pint'.....nearly. This is a 'real' old style Dublin pub. One of my favourite ......in the whole wide world.",
+              "time": 1628234094
+          },
+          {
+              "author_name": "Tom Duke",
+              "author_url": "https://www.google.com/maps/contrib/117575542416048190808/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14Gh7DlEDXLb4hdkFzsmQX2cebpSQQD-y84UnkqYshA=s128-c0x00000000-cc-rp-mo",
+              "rating": 5,
+              "relative_time_description": "a month ago",
+              "text": "Awesome bar! My server was very knowledgeable and friendly. It’s a nice balance between traditional and low-key, and fun and lively. Not too formal, not too wild.",
+              "time": 1630273340
+          },
+          {
+              "author_name": "Josh Madden",
+              "author_url": "https://www.google.com/maps/contrib/110004402283306187732/reviews",
+              "language": "en",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a/AATXAJxHu0YcwuHK6ZqTSLzELLwEFVVYEEVfOvDipEb8=s128-c0x00000000-cc-rp-mo",
+              "rating": 5,
+              "relative_time_description": "in the last week",
+              "text": "I work just around the corner from the palace bar and can say the my friends and I from work have never had a bad experience when having a pint after work all the lads who work there are so sound and accommodating and would highly recommend anyone visiting the city to  pop in for a few pints",
+              "time": 1632646115
+          }
+      ],
+      "types": [
+          "bar",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+      ],
+      "url": "https://maps.google.com/?cid=8448826351163131464",
+      "user_ratings_total": 2439,
+      "utc_offset": 60,
+      "vicinity": "21 Fleet Street, Temple Bar, Dublin 2",
+      "website": "http://www.thepalacebardublin.com/"
+  },
+  "status": "OK"
+}

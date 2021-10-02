@@ -1,0 +1,10 @@
+---
+production:
+  all_stores: 'https://maps.googleapis.com/maps/api/place/textsearch/json?query=pub&key=<%= ENV['GOOGLE_KEY'] %>'
+  find_store: 'https://maps.googleapis.com/maps/api/place/details/json?key=<%= ENV['GOOGLE_KEY'] %>'
+development:
+  all_stores: 'https://maps.googleapis.com/maps/api/place/textsearch/json?query=pub&key=<%= ENV['GOOGLE_KEY'] %>'
+  find_store: 'https://maps.googleapis.com/maps/api/place/details/json?key=<%= ENV['GOOGLE_KEY'] %>'
+test:
+  all_stores: 'https://maps.googleapis.com/maps/api/place/textsearch/json?query=pub&key=<%= ENV['GOOGLE_KEY'] %>'
+  find_store: 'https://maps.googleapis.com/maps/api/place/details/json?key=<%= ENV['GOOGLE_KEY'] %>'

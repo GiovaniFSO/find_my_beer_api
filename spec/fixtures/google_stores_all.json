@@ -1,0 +1,162 @@
+{
+  "html_attributions": [],
+  "next_page_token": "Aap_uEDO2BUAOnyeNd6sebAfDbjE7cZdnvVlpr8eQTgkQH-oxL84z8rBoj6JG7eTbAP0G9eeTjb1WHDxrNEQKLv3e2ThR0ziEFPh_jynOENqQpbw1VnIjgGg80WroEpObWgp_1j7BJWtBtN408Rz5H40Hw_-h0kYc62wX0Sk-_kXDW3htg9l5f137iN9mhmq4S4ijNR5al-CVLeZz1WYhj7c4dFlfSlh87gzpAS-rPuAsL7d23-CJ8o7YiJ8rMBzeNEK2PczkmNKGkdkdbVPH9cJSVMIKDC5_O6vfzjsr1KccwpnpZhEUAAYFnDW8bA71KJK2EqbTHDV00L9AdG91CFxLqJ0wpIEJdvdntdVwqzB2TW0vXVOfIEMav9hhSW55t1wnpiAuTR185TbVyyK_Rb8DwVaPBeAzUBEdO1NqitqsclihSNaEhAN7WTZWw",
+  "results": [
+      {
+          "business_status": "OPERATIONAL",
+          "formatted_address": "26 Bath Ave, Dublin 4, D04 X7P8, Ireland",
+          "geometry": {
+              "location": {
+                  "lat": 53.3374602,
+                  "lng": -6.2322025
+              },
+              "viewport": {
+                  "northeast": {
+                      "lat": 53.33872122989272,
+                      "lng": -6.230821920107278
+                  },
+                  "southwest": {
+                      "lat": 53.33602157010728,
+                      "lng": -6.233521579892722
+                  }
+              }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+          "icon_background_color": "#FF9E67",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+          "name": "The Bath Pub",
+          "opening_hours": {
+              "open_now": true
+          },
+          "photos": [
+              {
+                  "height": 758,
+                  "html_attributions": [
+                      "<a href=\"https://maps.google.com/maps/contrib/104678093266512604996\">John Roche</a>"
+                  ],
+                  "photo_reference": "Aap_uEBaW36SfzJSVm751eFdn-L9ghMM1EWJBOeCZ9VcfrMprrSjdYVerk8ZApA4W_du6j6HpvvvUasuIPywgB6xWaVfyOtwf2XRTQLN4NORuYH4-nrvOSMoNaBwh0n3JbW8bkgJnqo7UpTYkoYo2Ss1dX_rQgounYo3xeIS-16cpNC-uAtu",
+                  "width": 1500
+              }
+          ],
+          "place_id": "ChIJieJ8aeoOZ0gRnUL27XjYDrY",
+          "plus_code": {
+              "compound_code": "8QP9+X4 Dublin 4, Ireland",
+              "global_code": "9C5M8QP9+X4"
+          },
+          "price_level": 2,
+          "rating": 4.4,
+          "reference": "ChIJieJ8aeoOZ0gRnUL27XjYDrY",
+          "types": [
+              "bar",
+              "point_of_interest",
+              "establishment"
+          ],
+          "user_ratings_total": 1792
+      },
+      {
+          "business_status": "OPERATIONAL",
+          "formatted_address": "21 Fleet St, Temple Bar, Dublin 2, D02 H950, Ireland",
+          "geometry": {
+              "location": {
+                  "lat": 53.3458948,
+                  "lng": -6.2596063
+              },
+              "viewport": {
+                  "northeast": {
+                      "lat": 53.34724462989272,
+                      "lng": -6.258256470107277
+                  },
+                  "southwest": {
+                      "lat": 53.34454497010727,
+                      "lng": -6.260956129892721
+                  }
+              }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+          "icon_background_color": "#FF9E67",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+          "name": "The Palace Bar",
+          "opening_hours": {
+              "open_now": true
+          },
+          "photos": [
+              {
+                  "height": 2268,
+                  "html_attributions": [
+                      "<a href=\"https://maps.google.com/maps/contrib/106298357278765005325\">Tini Arand</a>"
+                  ],
+                  "photo_reference": "Aap_uEBMSwU62u03EpYWQVK0d9VFTdXzlua67o64RzM6Jl6JT7HHr8GLypF2mXZ6RIXraIlEn1m688ui4cCaU1Z5Z373HFkrL34tUSmEp3kDD6uLkZuUvg2bTnzHJJCrRzNeYWUItvNqNF7phUqLB4f4-Rywf6XBrbaBdWToieleC_1SOP2e",
+                  "width": 4032
+              }
+          ],
+          "place_id": "ChIJY8EByoQOZ0gRSMYJds1CQHU",
+          "plus_code": {
+              "compound_code": "8PWR+95 Dublin 2, Ireland",
+              "global_code": "9C5M8PWR+95"
+          },
+          "price_level": 2,
+          "rating": 4.5,
+          "reference": "ChIJY8EByoQOZ0gRSMYJds1CQHU",
+          "types": [
+              "bar",
+              "restaurant",
+              "food",
+              "point_of_interest",
+              "establishment"
+          ],
+          "user_ratings_total": 2438
+      },
+      {
+          "business_status": "OPERATIONAL",
+          "formatted_address": "1 Johnson Pl, Dublin, D02 HW58, Ireland",
+          "geometry": {
+              "location": {
+                  "lat": 53.3409325,
+                  "lng": -6.2632689
+              },
+              "viewport": {
+                  "northeast": {
+                      "lat": 53.34228232989273,
+                      "lng": -6.261919070107277
+                  },
+                  "southwest": {
+                      "lat": 53.33958267010728,
+                      "lng": -6.264618729892721
+                  }
+              }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+          "icon_background_color": "#FF9E67",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+          "name": "Peter's Pub",
+          "opening_hours": {
+              "open_now": true
+          },
+          "photos": [
+              {
+                  "height": 2988,
+                  "html_attributions": [
+                      "<a href=\"https://maps.google.com/maps/contrib/101091612903578706295\">Lenka Scurkova</a>"
+                  ],
+                  "photo_reference": "Aap_uEA7G7SjWdloh4gZ9ZmiyEY4WGr8zxBcSqZYU7eoyTXKNRoEk5pZIycj6B0AlCcACiXF8cVDCfB-7c8EvGivklJf5g7UcHIov8xvDdl2Wmlk71o3f4H14fWN-MIH526mU44SLuxUnVjlSGvGhp0Saf_R6nMKM2fK5Afl32NeZYE4RUQp",
+                  "width": 5312
+              }
+          ],
+          "place_id": "ChIJGa6WM5wOZ0gRxjvzzfvaYQU",
+          "plus_code": {
+              "compound_code": "8PRP+9M Dublin, Ireland",
+              "global_code": "9C5M8PRP+9M"
+          },
+          "price_level": 2,
+          "rating": 4.3,
+          "reference": "ChIJGa6WM5wOZ0gRxjvzzfvaYQU",
+          "types": [
+              "bar",
+              "point_of_interest",
+              "establishment"
+          ],
+          "user_ratings_total": 822
+      }
+  ],
+  "status": "OK"
+}
