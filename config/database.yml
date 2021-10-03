@@ -14,7 +14,7 @@ test:
   database: find_my_beer_api_test
 
 production:
-  <<: *default
+  adapter: postgis
   database: find_my_beer_api_production
-  username: find_my_beer_api
-  password: <%= ENV['FIND_MY_BEER_API_DATABASE_PASSWORD'] %>
+  pool: 5
+  timeout: 5000
