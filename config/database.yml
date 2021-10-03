@@ -14,7 +14,4 @@ test:
   database: find_my_beer_api_test
 
 production:
-  adapter: postgis
-  database: find_my_beer_api_production
-  pool: 5
-  timeout: 5000
+  url: <%= ENV.fetch('DATABASE_URL', '').sub(/^postgres/, "postgis") %>
