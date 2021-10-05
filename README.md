@@ -1,24 +1,41 @@
-# README
+# Find My Beer API  <img align="center" alt="Giovani-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
+https://find-my-beer-web-giovanifso.vercel.app/
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Accept to share location to find pubs close to you or if you deny i'll set Dublin location, so you can test it :D
+## Requirements
+- Docker
 
-Things you may want to cover:
+## Getting started
+To run in localhost you'll need to create an Google Api Key and enable Places API and Maps JavaScript API at https://console.cloud.google.com/google/maps-apis/credentials and create a .env with the keys GOOGLE_KEY and URL_WEB_APP(front_url - https://github.com/GiovaniFSO/find_my_beer_web)
 
-* Ruby version
+## Docker Compose
 
-* System dependencies
+To run in localhost you can up it with a Docker container.
 
-* Configuration
+```sh
+cd find_my_beer_api
+docker-compose run --rm --service-ports web bash
+```
 
-* Database creation
+Once done, you'll be able to run rails/ruby commands. To this case we gonna run at port 3001 since our front-end by default is using the port 3000
+You can check test
 
-* Database initialization
+```sh
+bin/setup
+rails s -p 3001 -b 0.0.0.0
+```
 
-* How to run the test suite
+> Note: `-b 0.0.0.0` to open access to front-end.
 
-* Services (job queues, cache servers, search engines, etc.)
+## Test
+To run the app tests and check if everything is working as expected:
+```sh
+bundle exec rspec
+```
 
-* Deployment instructions
+## Style Guides
 
-* ...
+You can verify if the code complies with the project's standards by running robocop and correcting any highlighted alerts:
+```sh
+bundle exec rubocop
+```
